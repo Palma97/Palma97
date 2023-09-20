@@ -81,7 +81,7 @@
 </div>  
   
 
-<div>
+<div align="center">
   Correo electrónico: <a href="mailto:palmabboy3@gmail.com" target="_blank">palmabboy3@gmail.com</a>
   <br/>
   Teléfono: <a href="https://wa.me/573143247658" target="_blank">+57 3112513583</a>
